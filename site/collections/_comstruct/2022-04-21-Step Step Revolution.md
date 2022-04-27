@@ -1,7 +1,7 @@
 ---
-author: Team 20
+author: Team SSR
 title: Step Step Revolution
-subtitle: 50.002 Team 20
+subtitle: 50.002 Team SSR
 
 tags:
     - post format

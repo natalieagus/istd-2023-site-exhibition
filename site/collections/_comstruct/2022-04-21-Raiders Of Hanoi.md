@@ -1,7 +1,7 @@
 ---
-author: Team 23 
+author: Team Hanoi Duckies
 title: Raiders of Hanoi
-subtitle: 50.00A Team 23 
+subtitle: 50.002 Team Hanoi Duckies 
 
 tags:
     - post format

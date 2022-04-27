@@ -1,7 +1,7 @@
 ---
-author: Team 9
+author: Team Triple Hash
 title: CHAD TO DA MOON
-subtitle: 50.002 Team 9
+subtitle: 50.002 Team Triple Hash
 
 tags:
     - post format

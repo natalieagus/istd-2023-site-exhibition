@@ -1,7 +1,7 @@
 ---
-author: Team 11
+author: Team Sober Donuts
 title: Drunkin' Donuts
-subtitle: 50.002 Team 11
+subtitle: 50.002 Team Sober Donuts
 tags:
     - post format
 categories:

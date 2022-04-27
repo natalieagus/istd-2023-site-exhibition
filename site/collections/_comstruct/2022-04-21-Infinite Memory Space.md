@@ -1,5 +1,5 @@
 ---
-author: Team 2
+author: Little Einsteins
 title: "Infinite Memory Space"
 subtitle: 50.002 Team 2
 

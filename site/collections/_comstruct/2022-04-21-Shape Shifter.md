@@ -1,7 +1,7 @@
 ---
-author: Team 3
+author: Team Error 404
 title: Shape Shifter
-subtitle: 50.002 Team 3
+subtitle: 50.002 Team Error 404
 
 tags:
     - post format

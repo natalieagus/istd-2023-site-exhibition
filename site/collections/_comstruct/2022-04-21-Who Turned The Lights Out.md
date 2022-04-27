@@ -1,7 +1,7 @@
 ---
-author: Team 21
+author: 21 Bums
 title: Who Turned The Lights Out
-subtitle: 50.002 Team 21
+subtitle: 50.002 Team 21 Bums
 
 tags:
     - post format

@@ -1,0 +1,18 @@
+logo_image: "/images/logo.png" # You can add own logo. For example '/images/logo.png'.
+
+menu__settings:
+  menu__items:
+    - title: "Home"
+      url: "/"
+    - url: "/about/"
+      title: "About"
+    - title: "50.001"
+      url: "/50001/"
+    - title: "50.002"
+      url: "/50002/"
+    # - title: "Pages"
+    #   submenu:
+    #     - url: "/about/"
+    #       title: "About"
+    #     - url: "/elements/"
+    #       title: "Elements"

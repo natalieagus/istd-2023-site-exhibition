@@ -1,0 +1,13 @@
+footer_menu__settings:
+  menu__items:
+    - title: "Home"
+      url: "/"
+    - title: "About"
+      url: "/about/"
+    - title: "50.001"
+      url: "/50001/"
+    - title: "50.002"
+      url: "/50002/"
+
+copyright_text_html: >-
+  <p> Created by <a href="https://github.com/natalieagus/">natalieagus</a> using <a href="https://github.com/CloudCannon/vonge-jekyll-bookshop-template">Vonge</a>. Template by <a href="https://cloudcannon.com/">CloudCannon</a>.</p>

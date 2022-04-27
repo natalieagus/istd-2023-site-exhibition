@@ -1,0 +1,14 @@
+{% assign c = "c-page-image" %}
+<div class="container">
+  <div class="row">
+    <div class="col col-12">
+      <div class="{{c}} animate">
+        {% if include.image contains 'http' %}
+        <img loading="lazy" src="{{ include.image }}" alt="{{ include.image_alt }}">
+        {% else %}
+        <img loading="lazy" src="{{ site.baseurl}}{{ include.image }}" alt="{{ include.image_alt }}">
+        {% endif %}
+      </div>
+    </div>
+  </div>
+</div>

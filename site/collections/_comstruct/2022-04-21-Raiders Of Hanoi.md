@@ -10,7 +10,7 @@ categories:
 image: https://www.dropbox.com/s/qmv4ux9wik4i8nk/slice1.png?raw=1
 description: Raiders of Hanoi is a spin on the famous Towers of Hanoi puzzle, built and implemented on the Alchitry Au.
 ---
-<video width ="100%" height = "100%" controls="controls" preload="metadata" src="https://www.dropbox.com/s/yc3fek6qceizr53/1D%20Checkoff%204_%20Poster%20and%20Video_1D%2023_attempt_2022-04-18-23-37-12_group%2023%201D%20video.mp4?raw=1#t=0.5"> Your browser does not support the HTML5 Video element.</video>
+<video width ="100%" height = "100%" controls="controls" preload="metadata" src="https://www.dropbox.com/s/ttycwbc6q2he5rs/duckv2.mp4?raw=1#t=2.5"> Your browser does not support the HTML5 Video element.</video>
 <br>
 
 ### Team Members

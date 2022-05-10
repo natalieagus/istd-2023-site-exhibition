@@ -10,7 +10,8 @@ categories:
 image: https://www.dropbox.com/s/xabk642nasxuf2i/slice1.png?raw=1
 description: Many students these days study as hard as they can in order to do well in their academics.
 ---
-
+<video width ="100%" height = "100%" controls="controls" preload="metadata" src="https://www.dropbox.com/s/dii0ioc000qbtn1/studybuddy.mp4?raw=1#t=0.5"> Your browser does not support the HTML5 Video element.</video>
+<br>
 
 ### Team Members
 Ang Yu Jie 

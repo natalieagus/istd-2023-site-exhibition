@@ -1,11 +1,11 @@
 {% if include.show_posts %}
 <div class="container animate">
-  <div class="row" data-pagebreak="30">
+  <div class="row" data-pagebreak="40">
     {% for post in site.comstruct %}
       {% bookshop blog-card post=post %}
     {% endfor %}
   </div>
 </div>
 
-{% bookshop_include pagination %}
+
 {% endif %}

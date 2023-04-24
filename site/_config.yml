@@ -105,5 +105,5 @@ tag_page_layout: tag_page
 tag_permalink_style: /:title
 
 environment: production
-baseurl: "/2022/term4-design-exhibition"
+baseurl: "/2023/term4-design-exhibition"
 # baseurl: ""

@@ -1,6 +1,6 @@
 :8080 {
-    handle_path /term4-design-exhibition* {
-        uri strip_prefix  /term4-design-exhibition
+    handle_path /2023/term4-design-exhibition* {
+        uri strip_prefix /2023/term4-design-exhibition
         root * ./_site
         try_files {path}.html {path}
         file_server
